@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "emc_token_dip20": {
+      "main": "src/token.mo",
+      "type": "motoko"
+    }
+  }
+}
